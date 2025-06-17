@@ -1,0 +1,33 @@
+[hero-title]
+Pei Ji Ye
+
+[hero-description]
+Contemporary artist exploring the intersection of traditional techniques and modern expression through painting and mixed media
+
+[about-text]
+Pei Ji Ye is a contemporary artist whose work bridges the gap between traditional Eastern artistic philosophies and modern Western techniques. Born in 1985, Pei has spent over a decade developing a distinctive visual language that speaks to universal human experiences.
+
+His paintings often explore themes of memory, place, and transformation, using a masterful combination of oil paints, mixed media, and unconventional materials. Drawing inspiration from both classical Chinese landscape painting and contemporary abstract expressionism, Pei creates works that are both deeply rooted in tradition and boldly innovative.
+
+Pei holds an MFA from the prestigious Central Academy of Fine Arts in Beijing and has exhibited internationally in galleries across Asia, Europe, and North America. His work is held in private collections worldwide and continues to evolve as he explores new mediums and techniques.
+
+[contact-intro]
+For inquiries about exhibitions, commissions, or purchasing artwork, please reach out through any of the following methods.
+
+[contact-email]
+info@peijiye.com
+
+[contact-phone]
++1 (234) 567-8900
+
+[contact-address]
+123 Art District Lane\nCreative Quarter, NY 10001
+
+[social-instagram]
+https://instagram.com/peijiye
+
+[social-facebook]
+https://facebook.com/peijiye
+
+[social-linkedin]
+https://linkedin.com/in/peijiye

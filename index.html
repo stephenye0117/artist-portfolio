@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pei Ji Ye - Contemporary Artist</title>
+    <meta name="description" content="Pei Ji Ye - Contemporary artist portfolio showcasing paintings and visual art">
+    
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Playfair+Display:wght@400;500;600&display=swap" rel="stylesheet">
+    
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <nav class="nav-container">
+            <a href="#" class="logo" id="site-title">Pei Ji Ye</a>
+            <ul class="nav-menu">
+                <li><a href="#home" class="active">Home</a></li>
+                <li><a href="#gallery">Gallery</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+            <button class="mobile-menu-toggle">☰</button>
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <!-- Hero Section -->
+        <section id="home" class="hero">
+            <div class="hero-content fade-in">
+                <h1 id="hero-title">Pei Ji Ye</h1>
+                <p id="hero-description">Contemporary artist exploring the intersection of traditional techniques and modern expression</p>
+            </div>
+        </section>
+
+        <!-- Gallery Section -->
+        <section id="gallery" class="section">
+            <div class="container">
+                <h2 class="section-title fade-in">Gallery</h2>
+                <div class="gallery-grid" id="gallery-container">
+                    <!-- Gallery items will be loaded by JavaScript -->
+                </div>
+            </div>
+        </section>
+
+        <!-- About Section -->
+        <section id="about" class="section about">
+            <div class="container">
+                <h2 class="section-title fade-in">About the Artist</h2>
+                <div class="about-content">
+                    <div class="about-text fade-in" id="about-text">
+                        <!-- About content will be loaded by JavaScript -->
+                    </div>
+                    <div class="about-image fade-in">
+                        <img src="images/artist-photo.jpg" alt="Pei Ji Ye" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                        <div class="placeholder-text" style="display: none;">Artist Photo</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact" class="section">
+            <div class="container">
+                <h2 class="section-title fade-in">Contact</h2>
+                <div class="contact-content fade-in">
+                    <p id="contact-intro" style="font-size: 1.1rem; color: var(--secondary-text); margin-bottom: 2rem;">
+                        For inquiries about exhibitions, commissions, or purchasing artwork, please reach out.
+                    </p>
+                    
+                    <div class="contact-info" id="contact-info">
+                        <!-- Contact information will be loaded by JavaScript -->
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="social-links" id="social-links">
+            <!-- Social links will be loaded by JavaScript -->
+        </div>
+        <p>&copy; 2024 <span id="footer-name">Pei Ji Ye</span>. All rights reserved.</p>
+    </footer>
+
+    <!-- Lightbox Modal -->
+    <div class="lightbox" id="lightbox" onclick="closeLightbox()">
+        <span class="close-lightbox" onclick="closeLightbox()">&times;</span>
+        <div class="lightbox-content" onclick="event.stopPropagation()">
+            <div class="lightbox-image" id="lightbox-image">
+                <img id="lightbox-img" src="" alt="" style="width: 100%; height: 100%; object-fit: cover;">
+            </div>
+            <div class="lightbox-info" id="lightbox-info">
+                <h3 id="lightbox-title">Artwork Title</h3>
+                <p id="lightbox-details">Artwork details will appear here</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="js/script.js"></script>
+</body>
+</html>
