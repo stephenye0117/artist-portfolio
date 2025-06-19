@@ -16,14 +16,23 @@
     <!-- Header -->
     <header class="header">
         <nav class="nav-container">
-            <a href="#" class="logo" id="site-title">Pei Ji Ye</a>
+            <a href="#" class="logo" id="site-title">
+                <span class="lang-en">Pei Ji Ye</span>
+                <span class="lang-zh" style="display: none;">叶培基</span>
+            </a>
             <ul class="nav-menu">
-                <li><a href="#home" class="active">Home</a></li>
-                <li><a href="#gallery">Gallery</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#contact">Contact</a></li>
+                <li><a href="#home" class="active" data-en="Home" data-zh="首页">Home</a></li>
+                <li><a href="#gallery" data-en="Gallery" data-zh="作品集">Gallery</a></li>
+                <li><a href="#about" data-en="About" data-zh="关于">About</a></li>
+                <li><a href="#contact" data-en="Contact" data-zh="联系">Contact</a></li>
             </ul>
-            <button class="mobile-menu-toggle">☰</button>
+            <div class="nav-controls">
+                <button class="language-toggle" id="language-toggle">
+                    <span class="lang-en">中文</span>
+                    <span class="lang-zh" style="display: none;">EN</span>
+                </button>
+                <button class="mobile-menu-toggle">☰</button>
+            </div>
         </nav>
     </header>
 
@@ -32,7 +41,10 @@
         <!-- Hero Section -->
         <section id="home" class="hero">
             <div class="hero-content fade-in">
-                <h1 id="hero-title">Pei Ji Ye</h1>
+                <h1 id="hero-title">
+                    <span class="lang-en">Pei Ji Ye</span>
+                    <span class="lang-zh" style="display: none;">叶培基</span>
+                </h1>
                 <p id="hero-description">Contemporary artist exploring the intersection of traditional techniques and modern expression</p>
             </div>
         </section>
@@ -40,7 +52,10 @@
         <!-- Gallery Section -->
         <section id="gallery" class="section">
             <div class="container">
-                <h2 class="section-title fade-in">Gallery</h2>
+                <h2 class="section-title fade-in">
+                    <span class="lang-en">Gallery</span>
+                    <span class="lang-zh" style="display: none;">作品集</span>
+                </h2>
                 <div class="gallery-grid" id="gallery-container">
                     <!-- Gallery items will be loaded by JavaScript -->
                 </div>
@@ -50,23 +65,38 @@
         <!-- About Section -->
         <section id="about" class="section about">
             <div class="container">
-                <h2 class="section-title fade-in">About the Artist</h2>
+                <h2 class="section-title fade-in">
+                    <span class="lang-en">About the Artist</span>
+                    <span class="lang-zh" style="display: none;">关于艺术家</span>
+                </h2>
                 <div class="about-content">
-                    <div class="about-text fade-in" id="about-text">
-                        <!-- About content will be loaded by JavaScript -->
+                    <div class="about-text-section">
+                        <div class="about-text fade-in" id="about-text">
+                            <!-- About content will be loaded by JavaScript -->
+                        </div>
                     </div>
-                    <div class="about-image fade-in">
-                        <img src="images/artist-photo.jpg" alt="Pei Ji Ye" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
-                        <div class="placeholder-text" style="display: none;">Artist Photo</div>
+                    <div class="about-images">
+                        <div class="about-image fade-in">
+                            <img src="images/artist-photo1.jpeg" alt="Pei Ji Ye" 
+                                 onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                            <div class="placeholder-text" style="display: none;">Artist Photo</div>
+                        </div>
+                        <div class="about-image fade-in">
+                            <img src="images/artist-photo2.jpg" alt="Artist in Nature" 
+                                 onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                            <div class="placeholder-text" style="display: none;">Studio Work</div>
+                        </div>
                     </div>
                 </div>
-            </div>
         </section>
 
         <!-- Contact Section -->
         <section id="contact" class="section">
             <div class="container">
-                <h2 class="section-title fade-in">Contact</h2>
+                <h2 class="section-title fade-in">
+                    <span class="lang-en">Contact</span>
+                    <span class="lang-zh" style="display: none;">联系方式</span>
+                </h2>
                 <div class="contact-content fade-in">
                     <p id="contact-intro" style="font-size: 1.1rem; color: var(--secondary-text); margin-bottom: 2rem;">
                         For inquiries about exhibitions, commissions, or purchasing artwork, please reach out.
@@ -82,10 +112,11 @@
 
     <!-- Footer -->
     <footer class="footer">
-        <div class="social-links" id="social-links">
-            <!-- Social links will be loaded by JavaScript -->
-        </div>
-        <p>&copy; 2024 <span id="footer-name">Pei Ji Ye</span>. All rights reserved.</p>
+       
+        <p>&copy; 2024 <span id="footer-name">
+            <span class="lang-en">Pei Ji Ye</span>
+            <span class="lang-zh" style="display: none;">叶培基</span>
+        </span>. All rights reserved.</p>
     </footer>
 
     <!-- Lightbox Modal -->

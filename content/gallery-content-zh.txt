@@ -1,0 +1,77 @@
+ARTWORK: artwork1
+TITLE: 夜色
+DETAILS: 水彩纸，丙烯，钢色笔，2025年<br>53cm × 38cm
+IMAGE: 《夜色 》53x38cm 水彩纸 丙烯 钢色笔 2025.jpeg
+DESCRIPTION: 夜幕降临时的神秘与宁静，通过深邃的色彩层次展现内心的沉思与探索。
+
+ARTWORK: artwork2
+TITLE: 巢
+DETAILS: 水彩纸，水彩，丙烯，2025年<br>53cm × 38cm
+IMAGE: 《巢》 53x38cm 水彩纸 水彩 丙烯 2025.jpeg
+DESCRIPTION: 象征着归属与安全感的温暖空间，探索家的概念与内心的栖息之地。
+
+ARTWORK: artwork3
+TITLE: 悠然
+DETAILS: 水彩纸，丙烯，2025年<br>26cm × 37cm
+IMAGE: 《悠然》 26x37cm 水彩纸 丙烯 2025.jpeg
+DESCRIPTION: 闲适自在的生活状态，通过柔和的色调表达内心的平静与超脱。
+
+ARTWORK: artwork4
+TITLE: 暗中
+DETAILS: 水彩纸，水墨，钢色笔，2025年<br>26cm × 37cm
+IMAGE: 《暗中》 26x37cm 水彩纸 水墨 钢色笔 2025.jpeg
+DESCRIPTION: 暗中涌动的生命力，在阴影与光明的交界处寻找希望与可能。
+
+ARTWORK: artwork5
+TITLE: 月下
+DETAILS: 水彩纸，水彩，丙烯笔，2025年<br>26cm × 37cm
+IMAGE: 《月下》 26x37cm 水彩纸 水彩 丙烯笔 2025.jpeg
+DESCRIPTION: 月光下的诗意瞬间，捕捉夜晚独有的宁静与浪漫氛围。
+
+ARTWORK: artwork6
+TITLE: 田园
+DETAILS: 水彩纸，丙烯，金属，2025年<br>54cm × 78cm
+IMAGE: 《田园》54x78cm 水彩纸 丙烯 金属 2025 (反光后重拍）.jpeg
+DESCRIPTION: 田园生活的纯朴与美好，金属材料的加入为作品增添了现代感与质感。
+
+ARTWORK: artwork7
+TITLE: 踪影
+DETAILS: 水彩纸，水彩，钢色笔，2025年<br>52cm × 37cm
+IMAGE: 《踪影 》52x37cm 水彩纸 水彩 钢色笔 2025.jpeg
+DESCRIPTION: 时间留下的痕迹，通过抽象的形式探索记忆与存在的印记。
+
+ARTWORK: artwork8
+TITLE: 逢春
+DETAILS: 水彩纸，水彩，丙烯，2025年<br>38cm × 53cm
+IMAGE: 《逢春》 38x53cm 水彩纸 水彩 丙烯 2025.jpeg
+DESCRIPTION: 春天到来的喜悦与希望，用温暖的色彩表达生命的复苏与新生。
+
+ARTWORK: artwork9
+TITLE: 穿越秩序
+DETAILS: 混合媒体，2025年<br>尺寸可变
+IMAGE: 1 Crossing The Order .jpeg
+DESCRIPTION: 突破既定框架的勇气，探索在规则与自由之间寻找平衡的可能性。
+
+ARTWORK: artwork10
+TITLE: 羽毛轻流
+DETAILS: 混合媒体，2025年<br>尺寸可变
+IMAGE: 2 Feather Light Flows.jpeg
+DESCRIPTION: 如羽毛般轻盈的流动，表达内心深处最细腻的情感波动。
+
+ARTWORK: artwork11
+TITLE: 竹林奏鸣曲
+DETAILS: 混合媒体，2025年<br>尺寸可变
+IMAGE: 3 Sonata of Bamboo Forest.jpeg
+DESCRIPTION: 竹林中的音乐诗篇，将自然的声响与内心的节拍融为一体。
+
+ARTWORK: artwork12
+TITLE: 春日冥想
+DETAILS: 混合媒体，2025年<br>尺寸可变
+IMAGE: 4 Meditation in Spring.jpeg
+DESCRIPTION: 春天里的静思时光，在自然的怀抱中寻找内心的宁静与智慧。
+
+ARTWORK: artwork13
+TITLE: 缝隙中的生命
+DETAILS: 混合媒体，2025年<br>尺寸可变
+IMAGE: 5 Life in Cracks.jpeg
+DESCRIPTION: 在最不可能的地方绽放的生命力，展现顽强与希望的力量。

@@ -1,0 +1,63 @@
+[hero-title]
+Pei Ji Ye
+
+[hero-description]
+A New York-based artist combining Eastern philosophy with Western painting elements, revealing the artistic conception of nature, freedom, and spiritual exploration
+
+[about-text]
+<p>Pei Ji Ye, a New York-based artist, attended Guangzhou Academy of Fine Arts in 1985. He studied at The New York Art Students League in 1988.</p>
+
+<p>Pei Ji applies Eastern philosophy with Western painting elements, integrating abstraction and symbolism. His paintings are bold and delicate, combining visual impact and a lyrical poetic atmosphere, the artistic conception of nature, freedom, and spiritual exploration.</p>
+
+<p>In the 1990s, Pei Ji Ye's artwork <strong>"Golden Hudson River"</strong> series and <strong>"New York Impression"</strong> series were exhibited in many galleries in New York, such as:</p>
+
+<ul>
+<li>H Arnot Company</li>
+<li>Wyndwood Gallery</li>
+<li>SOHO MD Gallery</li>
+</ul>
+
+<p>His <strong>"Ancient Charm"</strong> series was exhibited at Red Contemporary Gallery, Paris.</p>
+
+<p>His <strong>"Empire Dream"</strong> series was exhibited at the New York International Art Expo.</p>
+
+<p>After the 2000s, Pei Ji Ye was invited and exhibited in different Asian cities:</p>
+
+<ul>
+<li><strong>"Shenzhou Land"</strong> series, Beijing International Art Fair</li>
+<li><strong>"Lotus"</strong> series, Shanghai International Art Fair</li>
+</ul>
+
+<p>His work <strong>"Pleasing Garden"</strong> was selected by the <em>Collection of Works of Young Chinese Artists</em>, and Pei Ji was named an outstanding artist.</p>
+
+<p>His <strong>"Winter Flowers"</strong> series was selected for the large-scale picture album <em>Chinese Calligraphy and Painting Artists</em>, published by Tianjin People's Fine Arts Publishing House, and was introduced in the <em>Cultural Reference Report</em>.</p>
+
+<p>His <strong>"Jiuzhaigou"</strong> series and <strong>"Flower"</strong> series were exhibited twice at the Guangzhou International Art Fair.</p>
+
+<p>The <strong>"Jiuzhaigou"</strong> series was also selected in the national publication <em>China Art News</em>. In the same year, his works were included in the <em>Auspicious Chinese Painting Collection</em>.</p>
+
+<p>His <strong>"Huang Shan"</strong> series was exhibited multiple times at Morning Color Gallery, Guangzhou.</p>
+
+<p>His self-portrait, <strong>"Look, What Happened To Us Over the Years!"</strong>, was exhibited and collected by the 20th Anniversary Commemorative Group Exhibition of Chinese Songzhuang Artists, Songzhuang Art Museum, Beijing.</p>
+
+<p>His <strong>"New York Street Scenes"</strong> series was exhibited at the Hong Kong Modern Gallery.</p>
+
+<p>In recent years, Pei Ji has lived and worked in both New York and Asia. He constantly attends exhibitions worldwide.</p>
+
+<p>When living on Long Island, he participated in the Long Island Fine Art Show and other art activities.</p>
+
+<p>He also created large wall paintings for a mountain mansion in Pennsylvania.</p>
+
+<p>Pei Ji Ye's work has been collected by art museums, galleries, and individuals all over the world.</p>
+
+[contact-intro]
+For inquiries about exhibitions, commissions, or purchasing artwork, please reach out through any of the following methods.
+
+[contact-email]
+da888y@gmail.com
+
+[contact-phone]
++1 (646) 639-0788
+
+[contact-address]
+137 Warner Ave, Roslyn Heights, NY 11577

@@ -1,0 +1,77 @@
+ARTWORK: artwork1
+TITLE: Night Scene
+DETAILS: Watercolor paper, acrylic, steel pen, 2025<br>53cm × 38cm
+IMAGE: 《夜色 》53x38cm 水彩纸 丙烯 钢色笔 2025.jpeg
+DESCRIPTION: The mystery and tranquility of nightfall, revealing inner contemplation and exploration through deep color layers.
+
+ARTWORK: artwork2
+TITLE: Nest
+DETAILS: Watercolor paper, watercolor, acrylic, 2025<br>53cm × 38cm
+IMAGE: 《巢》 53x38cm 水彩纸 水彩 丙烯 2025.jpeg
+DESCRIPTION: A warm space symbolizing belonging and security, exploring the concept of home and the inner sanctuary.
+
+ARTWORK: artwork3
+TITLE: Leisurely
+DETAILS: Watercolor paper, acrylic, 2025<br>26cm × 37cm
+IMAGE: 《悠然》 26x37cm 水彩纸 丙烯 2025.jpeg
+DESCRIPTION: A state of comfortable ease, expressing inner peace and transcendence through gentle tones.
+
+ARTWORK: artwork4
+TITLE: In the Dark
+DETAILS: Watercolor paper, ink, steel pen, 2025<br>26cm × 37cm
+IMAGE: 《暗中》 26x37cm 水彩纸 水墨 钢色笔 2025.jpeg
+DESCRIPTION: Life force surging in darkness, seeking hope and possibility at the boundary between shadow and light.
+
+ARTWORK: artwork5
+TITLE: Under the Moon
+DETAILS: Watercolor paper, watercolor, acrylic pen, 2025<br>26cm × 37cm
+IMAGE: 《月下》 26x37cm 水彩纸 水彩 丙烯笔 2025.jpeg
+DESCRIPTION: A poetic moment under moonlight, capturing the unique tranquility and romantic atmosphere of night.
+
+ARTWORK: artwork6
+TITLE: Pastoral
+DETAILS: Watercolor paper, acrylic, metal, 2025<br>54cm × 78cm
+IMAGE: 《田园》54x78cm 水彩纸 丙烯 金属 2025 (反光后重拍）.jpeg
+DESCRIPTION: The simplicity and beauty of pastoral life, with metallic materials adding modernity and texture to the work.
+
+ARTWORK: artwork7
+TITLE: Traces
+DETAILS: Watercolor paper, watercolor, steel pen, 2025<br>52cm × 37cm
+IMAGE: 《踪影 》52x37cm 水彩纸 水彩 钢色笔 2025.jpeg
+DESCRIPTION: Marks left by time, exploring the imprints of memory and existence through abstract forms.
+
+ARTWORK: artwork8
+TITLE: Meeting Spring
+DETAILS: Watercolor paper, watercolor, acrylic, 2025<br>38cm × 53cm
+IMAGE: 《逢春》 38x53cm 水彩纸 水彩 丙烯 2025.jpeg
+DESCRIPTION: The joy and hope of spring's arrival, expressing life's revival and rebirth with warm colors.
+
+ARTWORK: artwork9
+TITLE: Crossing The Order
+DETAILS: Mixed media, 2025<br>Dimensions variable
+IMAGE: 1 Crossing The Order .jpeg
+DESCRIPTION: The courage to break through established frameworks, exploring the possibility of finding balance between rules and freedom.
+
+ARTWORK: artwork10
+TITLE: Feather Light Flows
+DETAILS: Mixed media, 2025<br>Dimensions variable
+IMAGE: 2 Feather Light Flows.jpeg
+DESCRIPTION: Light flows like feathers, expressing the most delicate emotional fluctuations deep within the heart.
+
+ARTWORK: artwork11
+TITLE: Sonata of Bamboo Forest
+DETAILS: Mixed media, 2025<br>Dimensions variable
+IMAGE: 3 Sonata of Bamboo Forest.jpeg
+DESCRIPTION: A musical poem in the bamboo forest, merging nature's sounds with the rhythm of the inner heart.
+
+ARTWORK: artwork12
+TITLE: Meditation in Spring
+DETAILS: Mixed media, 2025<br>Dimensions variable
+IMAGE: 4 Meditation in Spring.jpeg
+DESCRIPTION: Quiet contemplation in spring, seeking inner peace and wisdom in nature's embrace.
+
+ARTWORK: artwork13
+TITLE: Life in Cracks
+DETAILS: Mixed media, 2025<br>Dimensions variable
+IMAGE: 5 Life in Cracks.jpeg
+DESCRIPTION: Life force blooming in the most unlikely places, demonstrating the power of resilience and hope.
